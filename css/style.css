@@ -1,0 +1,166 @@
+.row {
+    width: 100%;
+}
+header {
+    background: #87509c;
+}
+.nav-link {
+    transition: ease-in-out 0.5s;
+}
+.nav-link:hover {
+    background: #643a79;
+    color: #fff;
+    border-radius: 5px;
+}
+.hero-btn {
+    background: #eb7d4b;
+}
+h2 {
+    padding: 10px 0px 5px 0px;
+}
+.des {
+    font-size: 15px;
+    padding: 0px 70px 40px 70px;
+}
+.heading{
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.sub-heading{
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 0px;
+}
+.underline{
+    border-top: 5px hsla(0, 0%, 0%, 0.075) solid;
+    width: 10%;
+    margin: 5px auto;
+    padding-bottom: 5px;
+}
+#service {
+    background: #17c2a4;
+}
+.service-box p {
+    padding: 5px 30px !important;
+    font-size: 14px;
+    line-height: 14px;
+}
+#team {
+    background: #e7f1f8;
+    color: #3c4761;
+}
+.team-box img {
+    width: 60%;
+}
+.team-box p {
+    font-size: 14px;
+    line-height: 14px;
+    font-weight: 500;
+}
+.team-icon {
+    width: 15% !important;
+}
+.post {
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 400;
+    color: #55c5ea;
+    padding-bottom: 5px;
+}
+#skill {
+    background: #fff;
+    color: #3c4761;
+}
+.skill-box img {
+    width: 60% !important;
+}
+#portfolio {
+    background: #ffdd99;
+}
+.portfolio-link {
+    transition: ease-in-out 0.8s;
+}
+.portfolio-link:hover {
+    background: #ffffff;
+    border-radius: 3px;
+    color: black;
+    padding: 0px 10px;
+}
+.portfolio-btn {
+    background: #17c2a4;
+}
+#about {
+    background: #d74680;
+}
+.about-box-writting {
+    padding: 5px 10px;
+}
+.about-des {
+    font-style: italic;
+}
+.about-post {
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 400;
+    color: #ffdd99;
+    padding-bottom: 5px;
+}
+#contact {
+    background: #3c5499;
+}
+.purple {
+    color: #643a79 !important;
+}
+input {
+    
+}
+input[type="text"]{
+    width: 100%;
+    background: #273a71;
+    padding: 10px;
+    margin: 1%;
+    border: #273a71;
+}
+input[type="email"]{
+    width: 100%;
+    background: #273a71;
+    padding: 10px;
+    margin: 1%;
+    border: #273a71;
+}
+textarea {
+    width: 100%;
+    background: #273a71 !important;
+    margin-top: 10px;
+    padding: 10px;
+    color: #ffffff;
+    border-radius: 2px;
+    border: #273a71 !important;
+}
+input::placeholder, textarea::placeholder {
+    color: #ffffff !important;
+    font-size: 15px;
+}
+input[type="submit"]{
+    background: #30bae7;
+    border: #30bae7;
+    border-radius: 3px;
+    font-size: 15px;
+    padding: 5px 50px;
+}
+footer {
+    background: #344b8e;
+}
+.foot-link {
+    transition: ease-in-out 0.5s;
+    font-size: 8px;
+}
+.foot-link:hover {
+    color: #30bae7 !important;
+}
